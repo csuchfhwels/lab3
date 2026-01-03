@@ -25,3 +25,4 @@ print("n =", n)
 print("s =", s)
 print("m =", m)
 print("a =", a)
+#it looks like I learned how to use git today

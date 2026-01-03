@@ -8,3 +8,4 @@ while (i + 1) * (i + 1) <= n:
     q = i * i
 
 print("q =", q)
+#it looks like I learned how to use git today
